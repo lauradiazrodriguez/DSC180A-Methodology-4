@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: DSC 180A Methodology Assignment 4
 ---
 
 # Laura Diaz Rodriguez
