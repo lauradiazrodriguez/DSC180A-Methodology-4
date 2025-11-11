@@ -1,9 +1,5 @@
 title: DSC 180A – Methodology Assignment 4
 description: Laura Diaz Rodriguez • Causal Copilot section
-
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
-  
-author: Laura Diaz Rodriguez
-email: lsd001@ucsd.edu
